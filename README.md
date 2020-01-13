@@ -1,2 +1,5 @@
-# blog-react-hooks-psql
-A blog site with react hooks and psql 
+# TODO-react-hooks-psql
+A TODO site using react and hooks, will hook up with psql later
+
+No css 
+
